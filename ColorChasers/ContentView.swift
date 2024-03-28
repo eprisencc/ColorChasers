@@ -9,6 +9,8 @@ import SwiftUI
 import ConfettiSwiftUI
 import AVFoundation
 
+// Color Chasers App
+
 struct ColoredObject
 {
     var color: String
