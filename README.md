@@ -5,7 +5,7 @@ Color Chasers is an engaging and educational color recognition game designed spe
 
 ## Key features of Color Chasers include:
 
-Colorful Gameplay: Vibrant and captivating visuals create an immersive gaming experience that captures children's attention and keeps them entertained.
+**Colorful Gameplay:** Vibrant and captivating visuals create an immersive gaming experience that captures children's attention and keeps them entertained.
 
 Interactive Learning: Through gameplay, children learn to recognize and differentiate between different colors, enhancing their cognitive and perceptual skills in a playful environment.
 
