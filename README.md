@@ -17,10 +17,14 @@ Color Chasers is an engaging and educational color recognition game designed spe
 
 Color Chasers is not just a game; it's a valuable educational tool that fosters children's development and instills a love for learning colors. With its intuitive gameplay and captivating visuals, Color Chasers is sure to become a favorite among young learners and their caregivers alike.
 
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-02 at 08 07 17](https://github.com/eprisencc/ColorChasers/assets/22011650/95bed6c1-ee7b-4400-9f56-310730467bdc)
+<!-- ![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-02 at 08 07 17](https://github.com/eprisencc/ColorChasers/assets/22011650/95bed6c1-ee7b-4400-9f56-310730467bdc) -->
 
 <img src="https://github.com/eprisencc/ColorChasers/assets/22011650/95bed6c1-ee7b-4400-9f56-310730467bdc" width="200" />
 
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-02 at 08 07 25](https://github.com/eprisencc/ColorChasers/assets/22011650/cf2c5c61-72ed-4c5a-b9df-2ad4b96b3d94)
+<!-- ![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-02 at 08 07 25](https://github.com/eprisencc/ColorChasers/assets/22011650/cf2c5c61-72ed-4c5a-b9df-2ad4b96b3d94) -->
 
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-02 at 08 07 56](https://github.com/eprisencc/ColorChasers/assets/22011650/1be42bcf-af51-4440-8bf8-275186a8e5d3)
+<img src="https://github.com/eprisencc/ColorChasers/assets/22011650/cf2c5c61-72ed-4c5a-b9df-2ad4b96b3d94" width="200" />
+
+<!-- ![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-02 at 08 07 56](https://github.com/eprisencc/ColorChasers/assets/22011650/1be42bcf-af51-4440-8bf8-275186a8e5d3) -->
+
+<img src="https://github.com/eprisencc/ColorChasers/assets/22011650/1be42bcf-af51-4440-8bf8-275186a8e5d3" width="200" />
