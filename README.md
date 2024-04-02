@@ -19,6 +19,8 @@ Color Chasers is an engaging and educational color recognition game designed spe
 
 Color Chasers is not just a game; it's a valuable educational tool that fosters children's development and instills a love for learning colors. With its intuitive gameplay and captivating visuals, Color Chasers is sure to become a favorite among young learners and their caregivers alike.
 
+## Screenshots
+
 <!-- ![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-02 at 09 06 58](https://github.com/eprisencc/ColorChasers/assets/22011650/89dcaa2c-30dd-4729-917f-28b73c1b2aa5) -->
 
 <img src="https://github.com/eprisencc/ColorChasers/assets/22011650/89dcaa2c-30dd-4729-917f-28b73c1b2aa5" width="400" />
