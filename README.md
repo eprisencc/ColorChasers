@@ -19,7 +19,7 @@ Color Chasers is not just a game; it's a valuable educational tool that fosters 
 
 <!-- ![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-02 at 09 06 58](https://github.com/eprisencc/ColorChasers/assets/22011650/89dcaa2c-30dd-4729-917f-28b73c1b2aa5) -->
 
-<img src="[https://github.com/eprisencc/ColorChasers/assets/22011650/89dcaa2c-30dd-4729-917f-28b73c1b2aa](https://github.com/eprisencc/ColorChasers/assets/22011650/89dcaa2c-30dd-4729-917f-28b73c1b2aa5)" width="400" />
+<img src="https://github.com/eprisencc/ColorChasers/assets/22011650/89dcaa2c-30dd-4729-917f-28b73c1b2aa5" width="400" />
 
 <!-- ![Simulator Screenshot - iPhone 15 Pro Max - 2024-04-02 at 08 07 17](https://github.com/eprisencc/ColorChasers/assets/22011650/95bed6c1-ee7b-4400-9f56-310730467bdc) -->
 
